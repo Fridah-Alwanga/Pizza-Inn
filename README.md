@@ -6,12 +6,12 @@ A web application where your customers order different sizes of pizzas with one 
 # BDD
 The website is a user interactive page that allows the user to choose and select desired inputs and later on gives out an output after calculations.
 # Built with
-html
-bootstrap
-google fonts
-css
-Jquery
-js
+1.Html
+2.Bootstrap
+3.Google fonts
+4.Css
+5.Jquery
+6.js
 # License:
 MIT LICENSE © 2020 Fridah Alwanga
 # Live link
